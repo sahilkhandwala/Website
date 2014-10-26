@@ -11,3 +11,7 @@ Used API of youtube, Yelp restaurant search
 Used XML as a datastore to store all recipe details.
 
 Have provided complete documentation of the project.
+
+Also performed close to 20-25 experiments to learn web technologies.
+
+This was created as part of the Web-Development course CS5610.
